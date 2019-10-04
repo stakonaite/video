@@ -1,0 +1,8 @@
+.btn-font{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+.btn-font:hover{
+    color: rgb(140, 214, 236);
+}
